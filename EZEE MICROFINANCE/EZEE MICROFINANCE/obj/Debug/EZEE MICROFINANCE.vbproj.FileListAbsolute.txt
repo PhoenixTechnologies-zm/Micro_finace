@@ -1,0 +1,89 @@
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\EZEE MICROFINANCE.exe.config
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\EZEE MICROFINANCE.exe
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\EZEE MICROFINANCE.pdb
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\EZEE MICROFINANCE.xml
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmClient.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmDepartment.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmEmployee.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmIDType.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmSetRate.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmSplashScreen.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmUsers.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.Resources.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.vbproj.GenerateResource.Cache
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.exe
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.xml
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.pdb
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.vbprojResolveAssemblyReference.cache
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmCreateAppUsers.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmAccessLoan.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmGurantor.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewClient.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewDept.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewEmployees.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewGurantor.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewID.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewRatings.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewNextOfKin.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmLoanPay.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmTransactions.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewDailyTransactions.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewLoanPayment.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewLoanHistory.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewAcctBalance.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewLoanBalance.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmBackup.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmRestoreDB.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.rtDailyTrans.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmMain.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.upEmployee.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmWithdraw.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.upPassword.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.upClient.resources
+C:\Users\Onana Vicky\Desktop\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmHelp.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\EZEE MICROFINANCE.exe.config
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\EZEE MICROFINANCE.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\EZEE MICROFINANCE.pdb
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\EZEE MICROFINANCE.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\bin\Debug\stdole.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.vbprojAssemblyReference.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewAcctBalance.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewClient.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewDailyTransactions.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewDept.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewEmployees.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewGurantor.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewID.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewLoanBalance.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewLoanHistory.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewLoanPayment.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewNextOfKin.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.viewRatings.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmAccessLoan.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmBackup.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmClient.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmCreateAppUsers.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmDepartment.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmEmployee.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmGurantor.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmHelp.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmIDType.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmLoanPay.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmMain.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmRestoreDB.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmSetRate.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmSplashScreen.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmTransactions.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmUsers.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.frmWithdraw.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.upClient.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.upEmployee.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.upPassword.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.Resources.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE_MICROFINANCE.rtDailyTrans.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.vbproj.GenerateResource.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.vbproj.CoreCompileInputs.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.vbproj.CopyComplete
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\Microfinace\EZEE MICROFINANCE\EZEE MICROFINANCE\obj\Debug\EZEE MICROFINANCE.pdb
